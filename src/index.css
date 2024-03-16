@@ -23,8 +23,7 @@
   position: absolute;
   margin: 1px 0;
   font-size: 10px;
-  /* justify-content:right; */
-  margin-top: 80px;
+ margin-top: 80px;
  
   top: 100px;
   right: 400px;
@@ -34,8 +33,7 @@
   text-align:center;
   margin-bottom: 1rem;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
-  /* border-radius: 10%;
-  padding: 10px 10px; */
+
 
 }
 
@@ -88,12 +86,7 @@
 
 
 .or-separator {
-  /* margin: 20px 0;
-  font-size: 50px;
-  display: flex;
-  align-items: center;
-  justify-content:right;
-  margin: 20px 0; */
+  
 
   margin-top: 190px;
   position: absolute;
@@ -134,8 +127,7 @@
 
 
 .subtitle {
-  /* font-size:large; */
-  /* position: absolute; */
+
   top: 50px;
   right: 390px;
   font-size: 3rem;

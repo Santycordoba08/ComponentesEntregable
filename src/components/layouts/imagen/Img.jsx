@@ -9,4 +9,3 @@ const Img = () =>{
 export default Img;
 
 
-// width={300}
